@@ -23,4 +23,4 @@ Kami menggunakan algoritma pembelajaran mesin untuk memprediksi harga Uber, sehi
 
 * Nilai set tes yang diprediksi juga dicetak, menunjukkan nilai prediksi model untuk setiap sampel dalam set tes.
 
-*Secara keseluruhan, mungkin perlu mengeksplorasi teknik pemodelan lain atau rekayasa fitur tambahan untuk meningkatkan kinerja model ini.
+* Secara keseluruhan, mungkin perlu mengeksplorasi teknik pemodelan lain atau rekayasa fitur tambahan untuk meningkatkan kinerja model ini.
